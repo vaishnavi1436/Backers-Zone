@@ -9,9 +9,8 @@ Welcome to Bakers Zone, your go-to online platform for exploring and sharing del
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Output](#Output)
+  
 ## Introduction
 
 Bakers Zone is a web application designed to bring together the baking community. Users can explore a variety of recipes, share their own creations, and connect with fellow bakers. The platform aims to inspire creativity and foster a supportive environment for baking enthusiasts of all levels.
@@ -31,7 +30,7 @@ To run the Bakers Zone website locally, ensure you have the following installed:
 
 - XAMPP SERVER
 
-Output :
+## Output :
 
 # Home Page
 
