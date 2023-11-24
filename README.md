@@ -9,7 +9,7 @@ Welcome to Bakers Zone, your go-to online platform for exploring and sharing del
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Output](#Output)
+  - [Output](#Output)
   
 ## Introduction
 
